@@ -1,0 +1,9 @@
+Customer ID,Signup Date,Spend,Region,Plan,Churned
+C001,2024-01-05,"$1,200.50",North,Pro,no
+C002,01/18/2024,"₹850",South,Basic,yes
+C003,2024/02/03,,East,Pro,no
+C004,not a date,"$0",West,,yes
+C005,3 Mar 2024,"1,100",North,Enterprise,no
+C006,2024-04-12,"bad",South,Basic,yes
+C007,,€990,East,Pro,no
+C008,2024-05-30,"$1,250",West,Enterprise,no

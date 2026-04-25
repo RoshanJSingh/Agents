@@ -1,0 +1,9 @@
+Listing ID,Sale Date,Neighborhood,Square Feet,Renovation Cost,SalePrice
+H001,2024-01-15,Oak Park,"1,200","$10,000","$250,000"
+H002,15/02/2024,River Bend,980,,210000
+H003,2024/03/05,Oak Park,bad,"$5,500","$235,000"
+H004,not known,Downtown,1450,"₹800000",
+H005,2024-04-21,River Bend,,"$0","275,000"
+H006,May 3 2024,Industrial,2100,"$25,000","410000"
+H007,,Downtown,760,"unknown","190,000"
+H008,2024-06-30,Oak Park,1325,"$12,500","300000"
